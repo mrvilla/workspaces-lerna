@@ -1,0 +1,12 @@
+{
+  "name": "@yarn-workspaces/fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test fun version: $npm_package_version"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
